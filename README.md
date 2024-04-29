@@ -1,4 +1,4 @@
-# Manual Test - rokomari.com 
+# Manual Test - Rokomari.com 
 
 Rokomari.com, also known as Rokomari dot com, is an e-commerce platform based in Bangladesh. It originally focused solely on selling books but has since expanded its offerings to many items. They have both a website and a mobile application for this platform.
 
